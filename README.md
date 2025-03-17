@@ -1,6 +1,11 @@
 # MY_Ecommerce_website
 # E-Commerce Website - Online Shopping for Clothes
 
+## Live Preview
+
+You can preview the website live at the following URL:
+[Live Preview](https://mrgamal07.github.io/MY_Ecommerce_website/)
+
 Welcome to the official repository of our **E-Commerce Website**, an online shopping platform for different types of clothes. This website provides a seamless shopping experience for customers looking to buy a variety of clothing items from different categories.
 
 ## Features
