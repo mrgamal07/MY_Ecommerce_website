@@ -188,10 +188,10 @@ header.sticky {
     transform: scale(0.9);
 }
 
-.row img:hover+.product-text h5 {
+/* .row img:hover {
     margin-top: 20px;
     margin-left: 10px;
-}
+} */
 
 .product-text h5 {
     position: absolute;
@@ -216,13 +216,12 @@ header.sticky {
     color: #EE1C47;
 }
 
-.ratting {
+.ratting i{
     color: #EE1C47;
     font-size: 18px;
 }
 
 .ratting:hover {
-    background-color: yellow;
     cursor: pointer;
 }
 
